@@ -5,7 +5,7 @@
 Crear una página web simple usando únicamente HTML que funcione como tu portafolio personal.
 
 ## Datos del estudiante
-**Nombre:** [DOUGLAS CRUZ]
+**Nombre:** DOUGLAS CRUZ
 **Carrera:** Desarrollo de Software
 
 ## Instrucciones
